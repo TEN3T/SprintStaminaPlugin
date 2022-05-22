@@ -1,0 +1,11 @@
+name: StaminaPlugin
+version: 1.0
+author: ES4HER
+description: Stamina Plugin
+
+main: com.esther.stamina.main.StaminaPlugin
+
+commands:
+  스테미나:
+    description:
+      스테미나 명령어
